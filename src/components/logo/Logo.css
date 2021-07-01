@@ -1,0 +1,11 @@
+.Tilt{
+    height: 120px;
+    width:120px;
+    background: linear-gradient(89deg, #ec40ca 0%, #3bc5d4 100%);
+}
+
+.Tilt:hover{
+    transform: scale(1.2);
+    transform: rotate(-20deg); 
+}
+
