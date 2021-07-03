@@ -2,7 +2,6 @@ import React from 'react';
 
 
 const navigation=function({onRouteChange,isSignIn}){
-   console.log(`fk`);
     if(isSignIn){
         
       return (
